@@ -1,0 +1,17 @@
+{
+  "name": "bootstrapapp",
+  "version": "1.0.0",
+  "description": "My gulp project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Goloshchapov Oleg",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
